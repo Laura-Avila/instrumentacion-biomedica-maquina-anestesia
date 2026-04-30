@@ -1,28 +1,33 @@
-# Máquina de Anestesia WATO EX-20 — Revisión de Literatura
+# Máquina de Anestesia WATO EX-20 
 
 **Asignatura:** Instrumentación Biomédica  
 **Equipo:** WATO EX-20 — Shenzhen Mindray Bio-Medical Electronics Co., Ltd.  
 **Fuentes principales:** Manual del Operador WATO EX-20 (Mindray, 2009) · Service Manual WATO EX-20/30/35 (Mindray, 2013)
 
 ---
-
 ## Tabla de Contenidos
 
-- [a. Tipos de anestesia](#a-tipos-de-anestesia-durante-una-cirugía)
-- [b. Gases de trabajo](#b-gases-de-trabajo-y-sistema-de-alta-presión)
-- [c. Sistema de respiración](#c-sistema-de-respiración)
-- [d. Submenús del ventilador](#d-submenús-del-ventilador)
+- [Tipos de anestesia durante una cirugía](#tipos-de-anestesia-durante-una-cirugía)
+- [Gases de trabajo y sistema de alta presión](#gases-de-trabajo-y-sistema-de-alta-presión)
+- [Sistema de respiración](#sistema-de-respiración)
+- [Submenús del ventilador](#submenús-del-ventilador)
+- [Partes de la máquina de anestesia WATO EX-20](#partes-de-la-máquina-de-anestesia-wato-ex-20)
+- [Mensaje "batería en uso" con paciente conectado](#mensaje-batería-en-uso-con-paciente-conectado)
+- [Frecuencia de reemplazo del recipiente absorbente de CO₂](#frecuencia-de-reemplazo-del-recipiente-absorbente-de-co)
+- [Verificación de fuga en cilindro de alta presión](#verificación-de-fuga-en-cilindro-de-alta-presión)
+- [Influencia del sensor de O₂ en la prueba de control de flujo](#influencia-del-sensor-de-o-en-la-prueba-de-control-de-flujo)
+- [Sistema de presión negativa](#sistema-de-presión-negativa)
+- [Descripción de la práctica](#descripción-de-la-práctica)
 - [Referencias](#referencias)
-
 ---
 
-## a. Tipos de Anestesia durante una Cirugía
+## Tipos de Anestesia durante una Cirugía
 
-### 1. Anestesia General
+### Anestesia General
 
 Estado de inconsciencia completa inducido farmacológicamente, que implica analgesia, amnesia y relajación muscular. El paciente pierde los reflejos protectores de la vía aérea y requiere soporte ventilatorio mecánico. Se administra por vía inhalatoria (agentes volátiles como sevoflurano, isoflurano o desflurano, mezclados con O₂ y/o N₂O) y/o intravenosa (propofol, ketamina, opioides). Es el tipo de anestesia para el cual la WATO EX-20 está diseñada (Butterworth et al., 2022).
 
-### 2. Anestesia Regional
+### Anestesia Regional
 
 Bloqueo de la transmisión nerviosa en una región específica del cuerpo sin afectar la consciencia del paciente. Incluye tres modalidades principales:
 
@@ -30,17 +35,17 @@ Bloqueo de la transmisión nerviosa en una región específica del cuerpo sin af
 - **Espinal o subaracnoidea (raquídea):** inyección directa en el espacio subaracnoideo, produciendo un bloqueo más rápido e intenso. Indicada en cirugías de miembros inferiores, urológicas y obstétricas.
 - **Bloqueo de nervio periférico:** bloqueo de un nervio o plexo específico (p. ej., plexo braquial) guiado por ultrasonido o neuroestimulación. Se aplica en cirugías de extremidades (Barash et al., 2017).
 
-### 3. Anestesia Local
+### Anestesia Local
 
 Aplicación del anestésico directamente en el sitio quirúrgico, bloqueando los nociceptores locales. El paciente permanece completamente consciente. Se emplea en procedimientos menores como suturas, biopsias y cirugía dermatológica, o como complemento de técnicas regionales (Morgan & Mikhail, 2018).
 
-### 4. Sedoanalgesia
+### Sedoanalgesia
 
 Combinación de sedantes y analgésicos que reduce el nivel de consciencia sin eliminarlo. El paciente responde a estímulos verbales y conserva los reflejos protectores de la vía aérea. Se usa en procedimientos diagnósticos (endoscopias, colonoscopias) y cirugías menores ambulatorias (Barash et al., 2017).
 
 ---
 
-## b. Gases de Trabajo y Sistema de Alta Presión
+## Gases de Trabajo y Sistema de Alta Presión
 
 La WATO EX-20 trabaja con tres gases médicos: oxígeno (O₂), óxido nitroso (N₂O) y aire medicinal (Air). El equipo dispone de suministro por tubería central (280–600 kPa) y por cilindros de alta presión como respaldo (Mindray, 2013).
 
@@ -62,7 +67,7 @@ Los tres gases (O₂, N₂O y Aire) pueden incorporarse mediante cilindros de al
 
 ---
 
-## c. Sistema de Respiración
+## Sistema de Respiración
 
 ### Definición y función
 
@@ -106,11 +111,11 @@ La WATO EX-20 cuenta con un circuito de respiración totalmente autoclavable a 1
 
 ---
 
-## d. Submenús del Ventilador
+## Submenús del Ventilador
 
 El ventilador de la WATO EX-20 dispone de cuatro modos de ventilación mecánica, seleccionables desde la tecla `[Modo vent]` en la pantalla principal (Mindray, 2009).
 
-### VCV — Ventilación por Control de Volumen
+### Ventilación por Control de Volumen
 
 Se programa un volumen corriente (VT) fijo que el ventilador entrega en cada ciclo con flujo constante, independientemente de la presión resultante en la vía aérea. Los parámetros ajustables son: VT, frecuencia respiratoria (FR), relación I:E, flujo inspiratorio, límite de presión (Plimit) y PEEP.
 
@@ -138,7 +143,33 @@ Similar al SIMV-VC, pero los ciclos mandatorios se ejecutan en modo de control d
 | SIMV-PC | Presión (ciclos mandatorios) | No disponible | Sí |
 
 ---
+## partes de la máquina de anestesia WATO EX-20
+---
+## Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra
+conectado a la máquina ¿Qué acción debería ejecutarse?
+---
+## Frecuencia de reemplazo el recipiente absorbente de CO2
+---
+## procedimiento para verificar si hay fuga en el cilindro de alta presión
+---
+## ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
+---
+## ¿Para qué se requiere el sistema de presión negativa?
+---
+## Descripción de la práctica
+• Análisis 1: Revise sobre las fallas que pueden presentarse en el
+funcionamiento de alguno de los subsistemas que componen la máquina de
+anestesia, así como lo que las produce.
+• Análisis 2: Ordene cada subsistema de la máquina en función del número
+de fallas asociadas a este (de mayor a menor,) de acuerdo con la
+información suministrada por el manual de operación.
 
+• Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
+
+• Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-
+20?
+
+---
 ## Referencias
 
 Barash, P. G., Cullen, B. F., Stoelting, R. K., Cahalan, M. K., Stock, M. C., & Ortega, R. (2017). *Clinical anesthesia* (8.a ed.). Wolters Kluwer.
