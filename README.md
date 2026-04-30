@@ -11,7 +11,7 @@
 - [Gases de trabajo y sistema de alta presión](#gases-de-trabajo-y-sistema-de-alta-presión)
 - [Sistema de respiración](#sistema-de-respiración)
 - [Submenús del ventilador](#submenús-del-ventilador)
-- [Partes de la máquina de anestesia WATO EX-20](#partes-de-la-máquina-de-anestesia-wato-ex-20)
+- [Partes de la máquina de anestesia WATO EX-20](#Partes-de-la-máquina-de-anestesia-wato-ex-20)
 - [Mensaje "batería en uso" con paciente conectado](#mensaje-batería-en-uso-con-paciente-conectado)
 - [Frecuencia de reemplazo del recipiente absorbente de CO₂](#frecuencia-de-reemplazo-del-recipiente-absorbente-de-co)
 - [Verificación de fuga en cilindro de alta presión](#verificación-de-fuga-en-cilindro-de-alta-presión)
@@ -143,7 +143,7 @@ Similar al SIMV-VC, pero los ciclos mandatorios se ejecutan en modo de control d
 | SIMV-PC | Presión (ciclos mandatorios) | No disponible | Sí |
 
 ---
-## partes de la máquina de anestesia WATO EX-20
+## Partes de la máquina de anestesia WATO EX-20
 ---
 ## Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra
 conectado a la máquina ¿Qué acción debería ejecutarse?
